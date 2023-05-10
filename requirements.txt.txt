@@ -1,4 +1,0 @@
-os
-streamlit
-pandas
-google-cloud-bigquery
