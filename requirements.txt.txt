@@ -1,4 +1,4 @@
 os
 streamlit
 pandas
-google.cloud.bigquery
+google-cloud-bigquery
