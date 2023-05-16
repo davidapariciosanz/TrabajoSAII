@@ -95,7 +95,7 @@ def main():
     # Función para ejecutar el segundo tipo de consulta
     def queryTwo():
         st.header('Consulta 2')
-        st.text('Fechas de consulta y de última actualización de las política de la empresa seleccionada con determinado identificador.')
+        st.text('Fechas de consulta y de última actualización de las política de la empresa \nseleccionada con determinado identificador.')
 
         empresasQ2 = ['Allrecipes', 'Amazon', 'AOL', 'Bank of America', 'Bing', 'Blogger', 'CNET', 'ESPN', 'Google',
                       'IMDb', 'Instagram', 'MSN', 'Reddit', 'The Huffington Post', 'The NY Times', 'The Walt Disney Company', 'Walmart',
